@@ -2,6 +2,7 @@
 
 Link al video de la ejecucion de la prueba automatizada: https://www.youtube.com/watch?v=XGi4a8YQhmk
 
+Link al proyecto al cual se le realizo la prueba automatizada: https://github.com/EliandDeveloper/Proyecto_Tarea.git
 
 Link al Jira con las historias de usuario y los casos de prueba: https://itla-team-4.atlassian.net/jira/software/projects/PA/issues/?jql=project%20%3D%20%22PA%22%20ORDER%20BY%20created%20DESC
 
@@ -25,6 +26,6 @@ dotnet test Prueba_Automatizada.dll --logger html
 /Prueba_Automatizada/Prueba_Automatizada/bin\Debug/net7.0/TestResults
 
 ```
-Link al proyecto al cual se le realizo la prueba automatizada: https://github.com/EliandDeveloper/Proyecto_Tarea.git
+
 
 
