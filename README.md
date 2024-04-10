@@ -9,5 +9,14 @@ Link al Jira con las historias de usuario y los casos de prueba: https://itla-te
 ### Las capturas de pantalla estan guardadas en su respectiva carpeta
 ### El reporte html esta en la carpeta Resultado
 
+#### En la terminar ejecutar el siguiente codigo para generar el index.html de los resultados de la prueba:
+
+```
+
+dotnet test Prueba_Automatizada.dll --logger html
+
+```
+
 Link al proyecto al cual se le realizo la prueba automatizada: https://github.com/EliandDeveloper/Proyecto_Tarea.git
+
 
