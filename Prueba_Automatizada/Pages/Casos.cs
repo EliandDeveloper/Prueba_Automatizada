@@ -37,11 +37,11 @@ namespace Prueba_Automatizada.Pages
         {
 
 
-            Capturas.TakeScreenshot(driver, "Apartado de abogados", "Casos");
+            Capturas.TakeScreenshot(driver, "Apartado de casos", "Casos");
 
             create_caso.Click();
 
-            Capturas.TakeScreenshot(driver, "Formulario de registro", "Casos");
+            Capturas.TakeScreenshot(driver, "Formulario de registro de casos", "Casos");
 
             // Seleccion cliente valor
 

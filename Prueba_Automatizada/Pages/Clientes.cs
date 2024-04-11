@@ -40,7 +40,7 @@ namespace Prueba_Automatizada.Pages
 
             cliente_register.Click();
 
-            Capturas.TakeScreenshot(driver, "Apartado de abogados", "Clientes");
+            Capturas.TakeScreenshot(driver, "Apartado de clientes", "Clientes");
 
             create_cliente.Click();
 
