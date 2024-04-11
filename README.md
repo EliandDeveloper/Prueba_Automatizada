@@ -9,6 +9,12 @@ Link al Jira con las historias de usuario y los casos de prueba: https://itla-te
  Las capturas de pantalla estan guardadas en su respectiva carpeta
 
 
+```
+
+Codigo Pruebas: Prueba_Automatizada/UnitTest.cs
+
+```
+
 ## Movi el resultado del test a una carpeta llamada Resultado, para una vista rapida, en caso de querer ir al origen cuando la ejecutes tu mismo, puedes seguir los siguientes pasos:
 
 #### En la terminar ejecutar el siguiente codigo para generar el index.html de los resultados de la prueba:
