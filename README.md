@@ -23,7 +23,7 @@ dotnet test Prueba_Automatizada.dll --logger html
 
 ```
 
-/Prueba_Automatizada/Prueba_Automatizada/bin\Debug/net7.0/TestResults
+/Prueba_Automatizada/Prueba_Automatizada/bin/Debug/net7.0/TestResults
 
 ```
 
